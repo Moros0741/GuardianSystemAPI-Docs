@@ -10,7 +10,9 @@ This is to limit the amount of incoming requests and avoid any requests that may
 
 We encourage you as a developer to write a system into your application for automated POST requests for submitting reports based on a auto-moderation feature, since automods are set with specific criteria that may align with our criteria better.
 
-Your application must always ahere to the Discord Developer Terms of Service and Policies. If you or your application are found to be in violation of said terms and policies, it will result in an immediate revocal of your API TOKEN and blacklist from the API. As developers it is our job to lay a solid foundation of trust and integrity for the communities we support with our programs, applications found to be malicious intentionally or otherwise will be removed from the API without repeal. 
+Your application must always ahere to the Discord Developer Terms of Service and Policies. If you or your application are found to be in violation of said terms and policies, it will result in an immediate revocal of your API TOKEN and blacklist from the API. 
+
+As developers it is our job to lay a solid foundation of trust and integrity for the communities we support with our programs, applications found to be malicious intentionally or otherwise will be removed from the API without repeal. 
 
 ### What Type of API is Guardian System?
 
